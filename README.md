@@ -1,6 +1,6 @@
 # jwtNINJA : V1
 
-![MIT SIZE ](https://img.shields.io/badge/size-1.31KB-red
+![MIT SIZE ](https://img.shields.io/badge/size-1.31KB-red)
 
 ![MIT SIZE ](https://img.shields.io/badge/language-C-green)
 ---
